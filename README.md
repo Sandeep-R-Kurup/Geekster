@@ -18,7 +18,7 @@ The Student Management System API is a web application that provides a RESTful A
 ## Getting Started
       To run this application locally, you will need to have Java 8 or higher installed on your machine. Follow these steps:
 
-      *  Clone the repository: git clone 
+      *  Clone the repository: git clone "https://github.com/Sandeep-R-Kurup/Geekster.git"
       *  Navigate to the project directory
       *  Run the application: ./mvnw spring-boot:run
       *  The application will be running at http://localhost:8080.
